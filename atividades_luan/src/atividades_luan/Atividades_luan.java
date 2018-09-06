@@ -8,6 +8,7 @@ public class Atividades_luan {
         
         switch(menu) {
             
+            case 5:
             case 1: System.out.println("01. Cadastrar valor");
             case 2: System.out.println("02. Buscar Maior");
             case 3: System.out.println("03. Buscar Menor");
